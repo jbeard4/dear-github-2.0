@@ -79,6 +79,7 @@ Signed,
 - Amr Bakry, @amrrbakry (Software Engineer)
 - Artur Barseghyan, @barseghyanartur (open-source contributor)
 - Daniel Bayley, @danielbayley (Motion/graphic designer and software developer)
+- Jacob Beard, @jbeard4 (SCION-SCXML)
 - Phil Beauvoir, @Phillipus (Archi)
 - Fynn Becker, @mvsde (Frontend Developer, Pangolin.js maintainer)
 - Shane Becker, @veganstraightedge (CrimethInc. Ex-Workers Collective @crimethinc)
